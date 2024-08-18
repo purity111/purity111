@@ -9,6 +9,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning AI.
 - 🤔 I’m looking for help with other developers.
 - 💬 Ask me about anything.
-- 📫 How to reach me: saitotakahashi469@gmail.com
+- 📫 How to reach me:
+      Mail: saitotakahashi469@gmail.com
+      Chatwork ID: shoki_chtwrk
 
 
