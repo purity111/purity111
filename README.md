@@ -1,4 +1,5 @@
 # 👨‍💻 About Me:
+😊Thank you for visiting me!😊
 Am a Frontend engineer as well as Backend engineer. Also familiar with Blockchain and AI, Devops. Working for achieve client's needs.
 
 # 💻 Tech Stack:
