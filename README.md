@@ -2,14 +2,72 @@
 😊Thank you for visiting me!😊
 Am a Front-end engineer as well as Back-end engineer. Also an familiar with Blockchain and AI, Devops. Working for achieve client's needs.
 
-# 💻 Tech Stack:
-Language: JS/TS, HTML5, PHP, Python, C#, C++, Ruby, Dart
-Framework: React, Next.js, Vue.js, Nuxt.js, Express.js, Nest.js, Laravel, Django, ASP.NET core,  We
-DB: MySQL, PostgreSQL, MongoDB, Redis, Firestore, SQL server
-Technologies: AI(RAG, LlamaIndex, Pinecone) ElasticSearch
-Devops: AWS(Lambda, EC2, S3, DynamoDB), GCP(Functions, Storage), Azure, Jenkins, Trello, Jira, Circle UI
-CSS Frameworks: Tailwind CSS, MUI, Antd, SCSS
-Tools: Github, Backlog, Docker, Fima/XD
+# 💻 Tech Stack
+
+## Languages
+- JavaScript / TypeScript
+- HTML5
+- PHP
+- Python
+- C#
+- C++
+- Ruby
+- Dart
+
+## Frameworks
+- **Frontend:** 
+  - React
+  - Next.js
+  - Vue.js
+  - Nuxt.js
+- **Backend:**
+  - Express.js
+  - Nest.js
+  - Laravel
+  - Django
+  - ASP.NET Core
+
+## Databases
+- MySQL
+- PostgreSQL
+- MongoDB
+- Redis
+- Firestore
+- SQL Server
+
+## Technologies
+- **AI:** 
+  - RAG
+  - LlamaIndex
+  - Pinecone
+- ElasticSearch
+
+## DevOps
+- AWS: 
+  - Lambda
+  - EC2
+  - S3
+  - DynamoDB
+- GCP: 
+  - Functions
+  - Storage
+- Azure
+- Jenkins
+- Trello
+- Jira
+- CircleCI
+
+## CSS Frameworks
+- Tailwind CSS
+- Material-UI (MUI)
+- Ant Design (Antd)
+- SCSS
+
+## Tools
+- GitHub
+- Backlog
+- Docker
+- Figma / XD
 
 # 📊 GitHub Stats:
 
