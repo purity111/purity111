@@ -4,8 +4,6 @@ Am a Front-end engineer as well as Back-end engineer. Also an familiar with Bloc
 
 # 💻 Tech Stack
 
-# 💻 Tech Stack
-
 ## Languages
 - JavaScript / TypeScript, HTML5, PHP, Python, C#, C++, Ruby, Dart
 
@@ -17,7 +15,7 @@ Am a Front-end engineer as well as Back-end engineer. Also an familiar with Bloc
 - MySQL, PostgreSQL, MongoDB, Redis, Firestore, SQL Server
 
 ## Technologies
-- **AI:** RAG, LlamaIndex, Pinecone; ElasticSearch
+- **AI:** RAG, LlamaIndex, Pinecone, ElasticSearch
 
 ## DevOps
 - **AWS:** Lambda, EC2, S3, DynamoDB; **GCP:** Functions, Storage; Azure, Jenkins, Trello, Jira, CircleCI
