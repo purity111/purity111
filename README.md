@@ -5,10 +5,10 @@ Am a Front-end engineer as well as Back-end engineer. Also an familiar with Bloc
 # 💻 Tech Stack
 
 ## Languages
-- JavaScript / TypeScript, HTML5, PHP, Python, C#, C++, Ruby, Dart
+- JavaScript / TypeScript, HTML5, PHP, Python, C#, Ruby, Dart
 
 ## Frameworks
-- **Frontend:** React, Next.js, Vue.js, Nuxt.js
+- **Frontend:** React, Next.js, Vue.js, Nuxt.js, Angular.js
 - **Backend:** Express.js, Nest.js, Laravel, Django, ASP.NET Core
 
 ## Databases
