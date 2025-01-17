@@ -1,6 +1,8 @@
 # 👨‍💻 About Me:
 😊Thank you for visiting me!😊
-Am a Front-end engineer as well as Back-end engineer. Also an familiar with Blockchain and AI, Devops. Working for achieve client's needs.
+Am a Seasoned website and Android/iOS engineer with over 7 years of experience.
+Have participated in numerous projects across several companies as frontend and full stack engineer.
+Code is my passion, and I strive to achieve the best results for my company.
 
 # 💻 Tech Stack
 
