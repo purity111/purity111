@@ -1,3 +1,10 @@
+<!-- 
+  .icon {
+    width: 30px;
+    height: 30px;
+  }
+-->
+
 # 👨‍💻 About Me:
 😊Thank you for visiting me!😊
 Am a Seasoned website and Android/iOS engineer with over 7 years of experience.
@@ -7,7 +14,7 @@ Code is my passion, and I strive to achieve the best results for my company.
 # 💻 Tech Stack
 
 ## Languages
-![JavaScript](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg) ![TypeScript](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg) ![HTML5](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg), ![PHP](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg) ![Python](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg), ![C#](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg)
+![".icon](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg "Javascript") ![".icon](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg, "Typescript") ![".icon](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg, "HTML5"), ![".icon](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg, "PHP") ![".icon](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg, "Python"), ![".icon](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg, "C#")
 
 ## Frameworks
 - **Frontend:** React, Next.js, Vue.js, Angular.js
