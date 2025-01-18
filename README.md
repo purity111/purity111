@@ -7,7 +7,7 @@ Code is my passion, and I strive to achieve the best results for my company.
 # 💻 Tech Stack
 
 ## Languages
-- JavaScript / TypeScript, HTML5, PHP, Python, C#
+![JavaScript](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg) ![TypeScript](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg) ![HTML5](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg), ![PHP](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg) ![Python](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg), ![C#](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg)
 
 ## Frameworks
 - **Frontend:** React, Next.js, Vue.js, Angular.js
