@@ -7,26 +7,25 @@ Code is my passion, and I strive to achieve the best results for my company.
 # 💻 Tech Stack
 
 ## Languages
-- JavaScript / TypeScript, HTML5, PHP, Python, C#, Ruby, Dart
+- JavaScript / TypeScript, HTML5, PHP, Python, C#
 
 ## Frameworks
-- **Frontend:** React, Next.js, Vue.js, Nuxt.js, Angular.js
-- **Backend:** Express.js, Nest.js, Laravel, Django, ASP.NET Core
+- **Frontend:** React, Next.js, Vue.js, Angular.js
+- **Backend:** Express.js, Nest.js, Laravel, Django
+- **Full-stack:** Nuxt.js, Next.js, ASP.NET Core
 
 ## Databases
-- MySQL, PostgreSQL, MongoDB, Redis, Firestore, SQL Server
+- MySQL, MongoDB, PostgreSQL, Firestore, SQL Server
 
 ## Technologies
-- **AI:** RAG, LlamaIndex, Pinecone, ElasticSearch
+- Restful API, WebRTC, ElasticSearch, Agile/Scrum
 
 ## DevOps
-- **AWS:** Lambda, EC2, S3, DynamoDB; **GCP:** Functions, Storage; Azure, Jenkins, Trello, Jira, CircleCI
+- **AWS:** Lambda, EC2, S3, DynamoDB, Azure
+- Jenkins, CircleCI
 
 ## CSS Frameworks
-- Tailwind CSS, Material-UI (MUI), Ant Design (Antd), SCSS
-
-## Tools
-- GitHub, Backlog, Docker, Figma / XD
+- Tailwind CSS, Material-UI(MUI), Ant Design(Antd), SCSS
 
 # 📊 GitHub Stats:
 
