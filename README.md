@@ -14,7 +14,7 @@ Code is my passion, and I strive to achieve the best results for my company.
 # 💻 Tech Stack
 
 ## Languages
-![".icon](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg "Javascript") ![".icon](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg, "Typescript") ![".icon](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg, "HTML5"), ![".icon](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg, "PHP") ![".icon](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg, "Python"), ![".icon](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg, "C#")
+![".icon"](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg "Javascript") ![".icon"](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg, "Typescript") ![".icon"](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg, "HTML5"), ![".icon"](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg, "PHP") ![".icon"](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg, "Python"), ![".icon"](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg, "C#")
 
 ## Frameworks
 - **Frontend:** React, Next.js, Vue.js, Angular.js
