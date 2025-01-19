@@ -12,25 +12,28 @@ Code is my passion, and I strive to achieve the best results for my company.
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" style="width: 40px" alt="Typescript" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" style="width: 40px" alt="HTML5" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" style="width: 40px" alt="PHP" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-dark.svg" style="width: 40px" alt="Python" />
+  <img src="https://github.com/ixrzr/skills-icons/raw/main/icons/python.svg" style="width: 40px" alt="Python" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" style="width: 40px" alt="C#" />
 </div>
 
 ## Frameworks
-- **Frontend:**
+
+### **Frontend:**
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" style="width: 40px" alt="React" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" style="width: 40px" alt="Vue.js" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg" style="width: 40px" alt="Angular" />
 </div>
-- **Backend:**
+
+### **Backend:**
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" style="width: 40px" alt="Express.js" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg" style="width: 40px" alt="Nest.js" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" style="width: 40px" alt="Laravel" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" style="width: 40px" alt="Django" />
-</div>
-- **Full-stack:**
+</div> 
+
+### **Full-stack:**
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NuxtJS-Dark.svg" style="width: 40px" alt="Nuxt.js" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" style="width: 40px" alt="Next.js" />
