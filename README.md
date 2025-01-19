@@ -1,9 +1,7 @@
-<!-- 
   .icon {
     width: 30px;
     height: 30px;
   }
--->
 
 # 👨‍💻 About Me:
 😊Thank you for visiting me!😊
