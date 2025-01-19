@@ -1,33 +1,47 @@
-  .icon {
-    width: 30px;
-    height: 30px;
-  }
-
 # 👨‍💻 About Me:
 😊Thank you for visiting me!😊
-Am a Seasoned website and Android/iOS engineer with over 7 years of experience.
+Am a Seasoned software engineer with over 7 years of experience.
 Have participated in numerous projects across several companies as frontend and full stack engineer.
 Code is my passion, and I strive to achieve the best results for my company.
 
 # 💻 Tech Stack
 
 ## Languages
-![".icon"](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg "Javascript") ![".icon"](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg, "Typescript") ![".icon"](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg, "HTML5"), ![".icon"](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg, "PHP") ![".icon"](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg, "Python"), ![".icon"](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg, "C#")
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="Javascript" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="Typescript" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" alt="PHP" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-dark.svg" alt="Python" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" alt="C#" />
+</div>
 
 ## Frameworks
-- **Frontend:** React, Next.js, Vue.js, Angular.js
-- **Backend:** Express.js, Nest.js, Laravel, Django
-- **Full-stack:** Nuxt.js, Next.js, ASP.NET Core
+- **Frontend:**
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" alt="Vue.js" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg" alt="Angular" />
+</div>
+- **Backend:**
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" alt="Express.js" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg" alt="Nest.js" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" alt="Laravel" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" alt="Django" />
+</div>
+- **Full-stack:**
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NuxtJS-Dark.svg" alt="Nuxt.js" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" alt="ASP.NET core" />
+</div>
 
 ## Databases
 - MySQL, MongoDB, PostgreSQL, Firestore, SQL Server
 
 ## Technologies
 - Restful API, WebRTC, ElasticSearch, Agile/Scrum
-
-## DevOps
-- **AWS:** Lambda, EC2, S3, DynamoDB, Azure
-- Jenkins, CircleCI
 
 ## CSS Frameworks
 - Tailwind CSS, Material-UI(MUI), Ant Design(Antd), SCSS
