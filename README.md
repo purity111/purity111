@@ -8,33 +8,33 @@ Code is my passion, and I strive to achieve the best results for my company.
 
 ## Languages
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="Javascript" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="Typescript" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" alt="PHP" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-dark.svg" alt="Python" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" alt="C#" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" style="width: 40px" alt="Javascript" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" style="width: 40px" alt="Typescript" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" style="width: 40px" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" style="width: 40px" alt="PHP" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-dark.svg" style="width: 40px" alt="Python" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" style="width: 40px" alt="C#" />
 </div>
 
 ## Frameworks
 - **Frontend:**
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="React" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" alt="Vue.js" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg" alt="Angular" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" style="width: 40px" alt="React" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" style="width: 40px" alt="Vue.js" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg" style="width: 40px" alt="Angular" />
 </div>
 - **Backend:**
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" alt="Express.js" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg" alt="Nest.js" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" alt="Laravel" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" alt="Django" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" style="width: 40px" alt="Express.js" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg" style="width: 40px" alt="Nest.js" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" style="width: 40px" alt="Laravel" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" style="width: 40px" alt="Django" />
 </div>
 - **Full-stack:**
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NuxtJS-Dark.svg" alt="Nuxt.js" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" alt="ASP.NET core" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NuxtJS-Dark.svg" style="width: 40px" alt="Nuxt.js" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" style="width: 40px" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" style="width: 40px" alt="ASP.NET core" />
 </div>
 
 ## Databases
