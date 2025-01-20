@@ -10,7 +10,7 @@ Code is my passion, and I strive to achieve the best results for my company.
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Javascript" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Typescript" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" style=width: 50px!important; margin-right: 20px!important; margin-bottom:15px!important" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" style="width: 50px!important; margin-right: 20px!important; margin-bottom:15px!important" alt="HTML5" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="PHP" />
   <img src="https://github.com/ixrzr/skills-icons/raw/main/icons/python.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Python" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="C#" />
@@ -28,7 +28,7 @@ Code is my passion, and I strive to achieve the best results for my company.
 ### **Backend:**
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Express.js" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg" style="wwidth: 50px; margin-right: 20px; margin-bottom:15px" alt="Nest.js" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Nest.js" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Laravel" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Django" />
 </div> 
