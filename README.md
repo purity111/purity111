@@ -8,36 +8,36 @@ Code is my passion, and I strive to achieve the best results for my company.
 
 ## Languages
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Javascript" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Typescript" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="PHP" />
-  <img src="https://github.com/ixrzr/skills-icons/raw/main/icons/python.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Python" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="C#" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" style="width: 50px!important; margin-right: 20px!important; margin-bottom:15px!important" alt="Javascript" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" style="width: 50px!important; margin-right: 20px!important; margin-bottom:15px!important" alt="Typescript" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" style=width: 50px!important; margin-right: 20px!important; margin-bottom:15px!important" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" style="width: 50px!important; margin-right: 20px!important; margin-bottom:15px!important" alt="PHP" />
+  <img src="https://github.com/ixrzr/skills-icons/raw/main/icons/python.svg" style="width: 50px!important; margin-right: 20px!important; margin-bottom:15px!important" alt="Python" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" style="width: 50px!important; margin-right: 20px!important; margin-bottom:15px!important" alt="C#" />
 </div>
 
 ## Frameworks
 
 ### **Frontend:**
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="React" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Vue.js" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Angular" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" style="width: 50px!important; margin-right: 20px!important; margin-bottom:15px!important" alt="React" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" style="width: 50px!important; margin-right: 20px!important; margin-bottom:15px!important" alt="Vue.js" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg" style="width: 50px!important; margin-right: 20px!important; margin-bottom:15px!important" alt="Angular" />
 </div>
 
 ### **Backend:**
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Express.js" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Nest.js" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Laravel" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Django" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" style="width: 50px!important; margin-right: 20px!important; margin-bottom:15px!important" alt="Express.js" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg" style="wwidth: 50px!important; margin-right: 20px!important; margin-bottom:15px!important" alt="Nest.js" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" style="width: 50px!important; margin-right: 20px!important; margin-bottom:15px!important" alt="Laravel" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" style="width: 50px!important; margin-right: 20px!important; margin-bottom:15px!important" alt="Django" />
 </div> 
 
 ### **Full-stack:**
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NuxtJS-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Nuxt.js" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="ASP.NET core" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NuxtJS-Dark.svg" style="width: 50px!important; margin-right: 20px!important; margin-bottom:15px!important" alt="Nuxt.js" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" style="width: 50px!important; margin-right: 20px!important; margin-bottom:15px!important" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" style="width: 50px!important; margin-right: 20px!important; margin-bottom:15px!important" alt="ASP.NET core" />
 </div>
 
 ## Databases
