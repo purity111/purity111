@@ -23,6 +23,12 @@ Code is my passion, and I strive to achieve the best results for my company.
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="React" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Vue.js" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Angular" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NuxtJS-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Nuxt.js" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Next.js" />
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/reactnative-auto.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Native" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JQuery.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="jQuery" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redux.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Redux" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MaterialUI-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="MUI" />
 </div>
 
 ### **Backend:**
@@ -31,23 +37,42 @@ Code is my passion, and I strive to achieve the best results for my company.
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NestJS-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Nest.js" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Laravel" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Django.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Django" />
+  <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/dotnet.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="DotNet" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Flask" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="GraphQL" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Fast API" />
 </div> 
 
-### **Full-stack:**
-<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NuxtJS-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Nuxt.js" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DotNet.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="ASP.NET core" />
-</div>
-
-## Databases
+### Databases
 - MySQL, MongoDB, PostgreSQL, Firestore, SQL Server
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="MySQL" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="MongoDB" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Postgre" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Firebase" />
+    <img src="https://github.com/LelouchFR/skill-icons/raw/main/assets/sqlserver-auto.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="SQLServer" />
+  </div>
 
-## Technologies
-- Restful API, WebRTC, ElasticSearch, Agile/Scrum
+### Styling & Design
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sass.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="SCSS" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Bootstrap" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Tailwind" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/StyledComponents.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="StyledComponent" />
+  </div>
 
-## CSS Frameworks
-- Tailwind CSS, Material-UI(MUI), Ant Design(Antd), SCSS
+### Other Skills
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Elasticsearch-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Elastic" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jest.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Jest" />
+    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jira-auto.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Jira" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Docker" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="AWS" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Kubernetes" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Heroku.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Heroku" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Vercel" />
+  </div>
 
 # 📊 GitHub Stats:
 
