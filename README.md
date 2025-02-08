@@ -1,8 +1,11 @@
 # 👨‍💻 About Me:
 😊Thank you for visiting me!😊
-Am a Seasoned software engineer with over 7 years of experience.
-Have participated in numerous projects across several companies as frontend and full stack engineer.
-Code is my passion, and I strive to achieve the best results for my company.
+I am a dynamic and results-driven Software Engineer with over 7 years of experience specializing in FE and full-stack development. 
+Proven expertise in leveraging modern JavaScript frameworks alongside BE technologies including Node.js, Python, ASP.NET and PHP. 
+Have a strong understanding of software development methodologies, including Agile and DevOps practices, with hands-on experience in CI/CD pipelines, version control (Git), and automated testing frameworks.
+Recently, I have participated in several AI project such as RAG Chatbot.
+
+I always passionate about code quality and best practices, with a commitment to continuous learning and staying updated with emerging technologies.
 
 # 💻 Tech Stack
 
@@ -44,7 +47,6 @@ Code is my passion, and I strive to achieve the best results for my company.
 </div> 
 
 ### Databases
-- MySQL, MongoDB, PostgreSQL, Firestore, SQL Server
   <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="MySQL" />
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="MongoDB" />
