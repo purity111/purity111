@@ -64,15 +64,12 @@ I always passionate about code quality and best practices, with a commitment to 
   </div>
 
 ### AI
-Tensorflow, Pytorch, ChatGPT, Gemini, Claude, OpenAI, GenAI, Llama, RAG, Pinecone, Langchain
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start">
-    <img src="https://icon-icons.com/icon/tensorflow-logo/168671" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Tensorflow" />
-    <img src="https://icon-icons.com/icon/pytorch-logo/169823" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Pytorch" />
-    <img src="https://icon-icons.com/icon/Chatgpt-logo-chatgpt-logo-square-green-Gpt-ia-openai/264977" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="ChatGPT" />
+    <img src="https://i.postimg.cc/HL8wrv4L/tensorflow-logo-icon-168671.png" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Tensorflow" />
+    <img src="https://i.postimg.cc/jSF6dYf9/pytorch-logo-icon-169823.png" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Pytorch" />
+    <img src="https://i.postimg.cc/7Z6MkZ50/Open-AI-New-2025.png" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="OpenAI" />
     <img src="https://logowik.com/content/uploads/images/claude-ai9117.logowik.com.webp" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Claude" />
-    <img src="https://logowik.com/openai-new-2025-logo-vector-75749.html" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="OpenAI" />
-    <img src="https://logowik.com/pinecone-vectors-71123.html" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Pinecone" />
-    <img src="https://logowik.com/openai-new-2025-logo-vector-75749.html" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="OpenAI" />
+    <img src="https://i.postimg.cc/Tw8rgjCJ/chatgpt-logo-chatgpt-logo-square-green-gpt-ia-openai-icon-264977.png" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="ChatGPT" />
     <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DAJFJtWIZAAC" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Langchain" />
   </div>
 
