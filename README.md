@@ -65,6 +65,16 @@ I always passionate about code quality and best practices, with a commitment to 
 
 ### AI
 Tensorflow, Pytorch, ChatGPT, Gemini, Claude, OpenAI, GenAI, Llama, RAG, Pinecone, Langchain
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start">
+    <img src="https://icon-icons.com/icon/tensorflow-logo/168671" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Tensorflow" />
+    <img src="https://icon-icons.com/icon/pytorch-logo/169823" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Pytorch" />
+    <img src="https://icon-icons.com/icon/Chatgpt-logo-chatgpt-logo-square-green-Gpt-ia-openai/264977" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="ChatGPT" />
+    <img src="https://logowik.com/content/uploads/images/claude-ai9117.logowik.com.webp" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Claude" />
+    <img src="https://logowik.com/openai-new-2025-logo-vector-75749.html" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="OpenAI" />
+    <img src="https://logowik.com/pinecone-vectors-71123.html" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Pinecone" />
+    <img src="https://logowik.com/openai-new-2025-logo-vector-75749.html" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="OpenAI" />
+    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DAJFJtWIZAAC" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Langchain" />
+  </div>
 
 ### Other Skills
   <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start">
@@ -77,6 +87,7 @@ Tensorflow, Pytorch, ChatGPT, Gemini, Claude, OpenAI, GenAI, Llama, RAG, Pinecon
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Kubernetes" />
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Heroku.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Heroku" />
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vercel-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Vercel" />
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/communication-chat-call/chatbot-icon.png" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Chatbot" />
   </div>
 
 # 📊 GitHub Stats:
