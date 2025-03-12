@@ -1,9 +1,10 @@
 # 👨‍💻 About Me:
+
 😊Thank you for visiting me!😊
 Seasoned Software Engineer with over 10 years of experience specializing in FE, full-stack development and AI fields. 
-Proven expertise in leveraging modern JavaScript frameworks alongside BE technologies including Node.js, Python, C# and PHP. 
+Proven expertise in leveraging modern JavaScript frameworks alongside BE technologies including Node.js, Python, PHP, C# and GO. 
 Have a strong understanding of software development methodologies, including Agile and DevOps practices, with hands-on experience in CI/CD pipelines, version control (Git), and automated testing frameworks.
-I am also familar with AI/ML and technologies related with it.
+I am also familar with mobile frameworks like React Native and Flutter, and AI/ML and technologies related with it.
 
 I always passionate about code quality and best practices, with a commitment to continuous learning and staying updated with emerging technologies.
 
