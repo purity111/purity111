@@ -20,8 +20,6 @@ I always passionate about code quality and best practices, with a commitment to 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" style="width: 50px; margin-right: 20px!important; margin-bottom:15px!important" alt="C#" />
 </div>
 
-## Frameworks
-
 ### **Frontend:**
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="React" />
@@ -29,7 +27,6 @@ I always passionate about code quality and best practices, with a commitment to 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Angular" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NuxtJS-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Nuxt.js" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Next.js" />
-  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/reactnative-auto.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Native" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JQuery.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="jQuery" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redux.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Redux" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MaterialUI-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="MUI" />
@@ -45,6 +42,14 @@ I always passionate about code quality and best practices, with a commitment to 
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flask-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Flask" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GraphQL-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="GraphQL" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/FastAPI.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Fast API" />
+</div> 
+
+### **Mobile:**
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: start">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Flutter" />
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/reactnative-auto.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Native" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kotlin-Dark.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Kotlin" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Swift.svg" style="width: 50px; margin-right: 20px; margin-bottom:15px" alt="Swift" />
 </div> 
 
 ### Databases
